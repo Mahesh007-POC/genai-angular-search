@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "John",
+    "rank": "1",
+    "marks": "90"
+  },
+  {
+    "id": "2",
+    "name": "Mike",
+    "rank": "3",
+    "marks": "70"
+  },
+  {
+    "id": "3",
+    "name": "Emily",
+    "rank": "2",
+    "marks": "85"
+  },
+  {
+    "id": "4",
+    "name": "Sarah",
+    "rank": "5",
+    "marks": "75"
+  },
+  {
+    "id": "5",
+    "name": "David",
+    "rank": "4",
+    "marks": "88"
+  },
+  {
+    "id": "6",
+    "name": "Lisa",
+    "rank": "6",
+    "marks": "78"
+  },
+  {
+    "id": "7",
+    "name": "Chris",
+    "rank": "7",
+    "marks": "72"
+  },
+  {
+    "id": "8",
+    "name": "Emma",
+    "rank": "8",
+    "marks": "69"
+  },
+  {
+    "id": "9",
+    "name": "James",
+    "rank": "9",
+    "marks": "62"
+  },
+  {
+    "id": "10",
+    "name": "Sophia",
+    "rank": "10",
+    "marks": "95"
+  },
+  {
+    "id": "11",
+    "name": "Daniel",
+    "rank": "11",
+    "marks": "61"
+  },
+  {
+    "id": "12",
+    "name": "Olivia",
+    "rank": "12",
+    "marks": "98"
+  },
+  {
+    "id": "13",
+    "name": "William",
+    "rank": "13",
+    "marks": "84"
+  },
+  {
+    "id": "14",
+    "name": "Ava",
+    "rank": "14",
+    "marks": "91"
+  },
+  {
+    "id": "15",
+    "name": "Ethan",
+    "rank": "15",
+    "marks": "77"
+  },
+  {
+    "id": "16",
+    "name": "Grace",
+    "rank": "16",
+    "marks": "82"
+  },
+  {
+    "id": "17",
+    "name": "Liam",
+    "rank": "17",
+    "marks": "71"
+  },
+  {
+    "id": "18",
+    "name": "Chloe",
+    "rank": "18",
+    "marks": "68"
+  },
+  {
+    "id": "19",
+    "name": "Benjamin",
+    "rank": "19",
+    "marks": "74"
+  },
+  {
+    "id": "20",
+    "name": "Zoe",
+    "rank": "20",
+    "marks": "80"
+  }
+]
